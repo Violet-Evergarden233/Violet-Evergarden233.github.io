@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Vickey-CL.github.io</id>
+    <title>Gridea</title>
+    <updated>2020-11-17T10:44:30.086Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Vickey-CL.github.io"/>
+    <link rel="self" href="https://Vickey-CL.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://Vickey-CL.github.io/images/avatar.png</logo>
+    <icon>https://Vickey-CL.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[8.21 又是一成不变的一天]]></title>
+        <id>https://Vickey-CL.github.io/post/821-you-shi-yi-cheng-bu-bian-de-yi-tian/</id>
+        <link href="https://Vickey-CL.github.io/post/821-you-shi-yi-cheng-bu-bian-de-yi-tian/">
+        </link>
+        <updated>2020-08-21T14:06:36.000Z</updated>
+        <content type="html"><![CDATA[<p>人家说文字可以直戳一个人的内心，我的文字也能传达的我的情感么。每日都是枯燥的生活，为什么自己每天这么颓废。要做出改变了，今晚就开始吧。一点点来，前面的话都是每日例行的自欺欺人罢了。说一点内心的想法吧，马上就开学了，倒也不想用白驹过隙之类的文艺辞藻来表达这段时间的折跃，已经在科协换届的时候被用烂了吧，不过，说回来真的有些事情要做的。无论如何，该准备四级考试了，这是我早该完成的，请约束好自己，无非就是英语而已，复习一些单词，然后多做一些题，提高一下这段时间对英语的熟悉感，尝试着用英语写一点东西吧，哪怕是废话也好，毕竟这门语言也陪伴了这么些年。还记得上初三的时候，等等，好像每到这种改变的阶段，自己的内心都会变得矫情起来，倒也不知道为什么。总有些想说的话憋在心理，甚是难受。借文字寄托一下就好。回到初三吧，当时还尝试着用自己蹩脚的英文写了一些对zdz的感情，唉，这个女孩子真是让我琢磨不透，以后保持一定距离就好。其他要做的事情呢，一方面是最近html js css这前端三个层面的学习慢慢推进，然后就是开学要考的高数，至少也要进行一个大概的复习，还有数据结构与算法mooc打个照面，至少熟写每一种算法吧，这其实都是很基础的事情，都是我该做的。其他学科也起码有一点认识吧，不然下学期一拥而上肯定是应付不过来的，c++再练一练一些中小型项目吧，对SQL用的跟熟练一些。大概就是这些事情要完成了，时间还是蛮紧张的。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://Vickey-CL.github.io/post/hello-gridea/</id>
+        <link href="https://Vickey-CL.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
